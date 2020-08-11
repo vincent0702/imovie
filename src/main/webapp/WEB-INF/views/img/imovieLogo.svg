@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-size: 41.667px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        text-anchor: middle;
+        font-family: "RiiTegakiFude";
+      }
+    </style>
+  </defs>
+  <text x="154" y="153" class="cls-1"><tspan x="154" class="cls-2">ＩＭＯＶＩＥ</tspan></text>
+</svg>

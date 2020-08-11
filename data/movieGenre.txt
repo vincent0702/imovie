@@ -1,0 +1,12 @@
+劇情|Drama
+動畫|Animation
+喜劇|Comedy
+愛情|Romance
+恐怖|Horror
+懸疑驚悚|Thriller
+動作|Action
+戰爭|War
+科幻|Fantasy
+犯罪|Crime
+紀錄片|Documentary
+奇幻|Strange
